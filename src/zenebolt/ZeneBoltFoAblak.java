@@ -50,7 +50,7 @@ public class ZeneBoltFoAblak {
 	 * Launch the application.
 	 */
 
-	// Nev: AdminFerenc, jelszó: Plutonium-1986
+	
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
