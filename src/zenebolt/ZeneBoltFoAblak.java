@@ -40,7 +40,7 @@ public class ZeneBoltFoAblak {
 	private String connectionURL = "jdbc:mysql://localhost:3306/Zenebolt?allowPublicKeyRetrieval=true&useSSL=false";
 	private String connectionURLVevok = "jdbc:mysql://localhost:3306/Regisztracio_db?allowPublicKeyRetrieval=true&useSSL=false";
 	private String userName = "root";
-	private String password = "Plutonium-36";
+	private String password = "MySQLPassword";
 
 	private DefaultTableModel tModel;
 	private JLabel lblAlbumNeve;
